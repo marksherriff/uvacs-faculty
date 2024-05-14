@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Undergraduate Curriculum
-nav_order: 3.1
+title: Curriculum Policies
+parent: Undergraduate Program
 ---
 
 # Undergraduate Curriculum Policies

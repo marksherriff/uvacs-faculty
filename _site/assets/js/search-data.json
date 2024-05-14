@@ -398,74 +398,403 @@
     
     "relUrl": "/"
   },"57": {
-    "doc": "Undergraduate Curriculum",
+    "doc": "Undergraduate Program",
+    "title": "Undergraduate Program",
+    "content": " ",
+    "url": "/ug.html",
+    
+    "relUrl": "/ug.html"
+  },"58": {
+    "doc": "Curriculum Policies",
     "title": "Undergraduate Curriculum Policies",
     "content": ". | 1. Modifying existing courses . | 1.1. Content/coverage | 1.2. Amount and timing of work | 1.3. Sections and delivery | . | 2. Designing new courses . | 2.1. Special Topics courses | 2.2. Independent study | . | 3. Timing and deadlines | . ",
     "url": "/ug_curriculum.html#undergraduate-curriculum-policies",
     
     "relUrl": "/ug_curriculum.html#undergraduate-curriculum-policies"
-  },"58": {
-    "doc": "Undergraduate Curriculum",
+  },"59": {
+    "doc": "Curriculum Policies",
     "title": "1. Modifying existing courses",
     "content": " ",
     "url": "/ug_curriculum.html#1-modifying-existing-courses",
     
     "relUrl": "/ug_curriculum.html#1-modifying-existing-courses"
-  },"59": {
-    "doc": "Undergraduate Curriculum",
+  },"60": {
+    "doc": "Curriculum Policies",
     "title": "1.1. Content/coverage",
     "content": "Course content may be constrained by: . | The official course description in the record | Topics required by courses that use this as a prerequisite | Topics required by accreditation | Topics required by one or more degree programs | Measures that must be assessed every semester for accreditation | Deduplication constraints between similar courses | Student development goals identified for foundation courses | . Not all courses have all of these constraints. Those they have are found in its Course Spec, maintained by the CS Undergraduate Curriculum Committee (UCC) at (insert link), or in the record if the course has no Course Spec. Changes to these constraints generally require approval by multiple bodies and are coordinated by the UCC. If the course has multiple instructors with a shared section of some kind (laboratory, final exam time, etc), either all instructors must agree to details of content and coverage, or a request to un-share those sections must be given to the department course scheduler at least a week prior to enrollment opening. Beyond these constraints, faculty can redesign their course content and coverage without formal approval. However, please be aware of possible overlap; if your change would cause your course to cover topics that might reasonably be considered in-scope for another course, please coordinate with faculty who have taught that other course over the past 3 years to ensure that students who take both courses will still receive two full courses of material. ",
     "url": "/ug_curriculum.html#11-contentcoverage",
     
     "relUrl": "/ug_curriculum.html#11-contentcoverage"
-  },"60": {
-    "doc": "Undergraduate Curriculum",
+  },"61": {
+    "doc": "Curriculum Policies",
     "title": "1.2. Amount and timing of work",
     "content": "All CS courses should be 3 credits, with the following exceptions: . | Some foundation courses may be 4 credits | Independent study courses are variable credits (1–3); this flexibility allows smaller exploratory projects or spreading a 3-credit project over two semesters. | Seminars and student-taught courses may be 1 credit | . A credit is defined by both the university (PROV-022) and federal government (34 CFR § 600.2) as at least 135 hours of student time, including all individual, group, and in-class learning, study, assessment, and other work. For CS, we recommend 135 hours as a target, not just a lower bound. While actual time will vary by student, if a course proves to be reliably above or below this target then content and associated student tasks should be adjusted to more accurately reflect this definition. Instructors should recognize that students are taking multiple courses and may need to balance when they do their course work accordingly. While some students may choose to do the bulk of their work near an assignment deadline, there should be no arbitrary structural reason (such as delayed release of assignment details or delayed coverage of relevant topical material) why they must do so. ",
     "url": "/ug_curriculum.html#12-amount-and-timing-of-work",
     
     "relUrl": "/ug_curriculum.html#12-amount-and-timing-of-work"
-  },"61": {
-    "doc": "Undergraduate Curriculum",
+  },"62": {
+    "doc": "Curriculum Policies",
     "title": "1.3. Sections and delivery",
     "content": "As a general rule, each credit hour should correspond to one contact hour per week, where a contact hour is defined as either 50 minutes of lecture or 75 minutes of laboratory. Fewer contact hours may be appropriate for independent study courses. The way that UVA schedules courses means that changes to lecture/lab balance have ramifications far beyond a single course, both in that semester and in semesters that follow. Because of this, requests to change the lecture/lab allocation of a course must be submitted to the UCC before the schedule is submitted; requests should include justification for the change and input from other instructors of the same course number (if applicable). In addition to Lectures and Laboratories, UVA has course codes for Studios, Discussions, Practica, and Seminars. CS has traditionally not used these, but requests to do so may be submitted to the UCC. ",
     "url": "/ug_curriculum.html#13-sections-and-delivery",
     
     "relUrl": "/ug_curriculum.html#13-sections-and-delivery"
-  },"62": {
-    "doc": "Undergraduate Curriculum",
+  },"63": {
+    "doc": "Curriculum Policies",
     "title": "2. Designing new courses",
     "content": "The UCC is responsible for evaluating the content of courses and meeting university-level policies on special topics courses. The chair is responsible for balancing and funding faculty workloads. The scheduler is responsible for ensuring that each semester an appropriate number of courses of each type are offered. All three need to agree before a course is scheduled, and approval by one does not guarantee approval by the others. The following describes only information related to the UCC’s responsibilities. ",
     "url": "/ug_curriculum.html#2-designing-new-courses",
     
     "relUrl": "/ug_curriculum.html#2-designing-new-courses"
-  },"63": {
-    "doc": "Undergraduate Curriculum",
+  },"64": {
+    "doc": "Curriculum Policies",
     "title": "2.1. Special Topics courses",
     "content": "These courses are pilots of potential new permanent course offerings. Substantially similar offerings of a special topics course may be offered up to three times; a fourth offering should occur under a new permanent course number. Each offering as a 3501 or 4501 must be submitted for approval before being scheduled, and each should move the course closer to a permanent listing. Courses may be given a permanent number after a few number of offerings if the course content is stable and multiple faculty members agree it should be offered regularly. | CS 1511: A course that is not a CS required or elective course and has no computing prerequisites. | CS 2501: A course that is not part of a computing major and has only Intro to Programming (and possibly some non-CS courses) as a prerequisite; or a pilot of a new foundation course. | CS 3501: A CS elective requiring one or more 2000-level CS courses as a prerequisite, and which introduce topics such that we might reasonably imagine having a second undergrad course following it or which students might benefit from having before taking other electives. | CS 4501: A CS elective requiring several 2000- and/or 3000-level CS courses as prerequisites which provides a reasonably complete undergrad-level understanding of a topic. | . Each offering of one of these courses must be approved by the UCC, even if a substantially similar offering occurred in the past, and will not be scheduled without such approval. The request may be made in any format, but should include . | Proposed course title. | Proposed course description to put into SIS and the university record. | Course prerequisites. Consider both CS and non-CS courses. If only a smaller subset of a requisite course’s content is needed, clarify which content (e.g. “APMA 3100 or MATH 3100 for the notion of conditional probability”). | A list of similar existing courses at UVA and how this course differs from them. This should include statements by both the new and existing course - instructors about how much overlap the courses have; the new instructor’s reading of others’ past materials alone is generally insufficient. | . If this is a second or third offering, . | a detailed topics list | example assignments from previous offerings | if applicable, a summary of major changes planned for this offering | . If this is a third offering, . | a proposed permanent course number | a set of faculty who have reviewed the course materials and agreed they would be willing to teach a variant of the course in the future | Or, if the course is not ready for a permanent number and listing in the record, instead provide an explanation as to why not. | . Courses intended to be taken by majors (CS 3501 and CS 4501) must be both (a) substantially distinct from other offerings and (b) primarily computing content. Cross-departmental courses are appropriate only when the content is in the intersection of the two disciplines. Courses intended to be taken by non-majors (CS 1511 and CS 2501) have more flexibility; for example, they may . | extract certain practical topics from majors courses and present them without the supporting details needed to make them part of a CS degree | cover CS-adjacent topics | teach material in other courses through the lens of a specific non-computing discipline. | . Funding to support faculty time on non-majors courses is handled on a case-by-case basis and should be discussed with the department chair before submitting the course description to the UCC. There is also a special-topics course number, CS 1501, used only for 1-credit ungraded courses. In most cases, these are taught by students under the supervision of a faculty member. CS 1501 courses do not require UCC approval. ",
     "url": "/ug_curriculum.html#21-special-topics-courses",
     
     "relUrl": "/ug_curriculum.html#21-special-topics-courses"
-  },"64": {
-    "doc": "Undergraduate Curriculum",
+  },"65": {
+    "doc": "Curriculum Policies",
     "title": "2.2. Independent study",
     "content": "These courses are one-off offerings tailored to specific students. In general, they may consist of . | Instruction in topics not of general interest. | Supervised research, in which the primary goal is the student performing or assisting in a research project. | Supervised project work, in which the primary goal is the student creating or assisting in the creation of a significant artifact. | . They do not require approval as long as they both (a) have small enrollments and (b) are offered by a CS faculty member. They are not counted toward a faculty member’s overall teaching load. | CS 2993: Should have limited prereqs and deal in less advanced material than a typical computing elective. | CS 4980: Should be research or project work; instruction-oriented content is not appropriate for 4980. | CS 4993: Should be at least as advanced as a typical computing elective. | . Instructors of independent study courses should clearly specify their expectations in writing to students early in the term (a week before the drop deadline at a minimum) and should grade them based on those expectations. It is appropriate to mix and match independent study sections with other sections. For example, the following are appropriate: . | Having a group of undergraduates working on a project, some for 4993, some for 4980, and some as an uncredited side project | Having an undergrad in CS 4993 attend a graduate course as their primary learning activity | . ",
     "url": "/ug_curriculum.html#22-independent-study",
     
     "relUrl": "/ug_curriculum.html#22-independent-study"
-  },"65": {
-    "doc": "Undergraduate Curriculum",
+  },"66": {
+    "doc": "Curriculum Policies",
     "title": "3. Timing and deadlines",
     "content": "The following table summarizes when various events related to courses occur each year. | Activity | Fall | Spring | Summer | . | Chair approval of intent1 | December | April | October | . | First draft schedule | Dec 10 | Apr 1 | Oct 15 | . | Course proposal to UCC2 | penult Fri of Jan | penult Fri of Aug | penult Wed of Oct | . | Schedule due | 1st Fri of Feb | 1st Fri of Sep | 1st Wed of Nov | . | Schedule published3 | near March 15 | near Oct 15 | February | . | Courses start4 | near Aug 25 | near Jan 15 | varies | . | Add deadline4 | near Sep 5 | near Jan 30 | varies | . | Drop deadline4 | near Oct 15 | near Feb 25 | varies | . 1 The department chair handles issues of effort allocation, course offering balancing, and funding. Before investing energy in course (re)design, please verify that the chair supports the effort investment of a new/redesigned course. Note that chair approval does not guarantee UCC approval nor inclusion in any particular semester’s schedule. 2 The UCC needs to approve new and repeated 1511, 2501, 3501, and 4501 offerings. Submit your request by email to the UCC chair no later than 2 weeks before the schedule is due to allow time for discussion. Changes to lecture/lab allocations should be made at the same time. 3 You should have student-facing materials (a website, etc) for your new course available before the schedule is published to help students plan their course selection. 4 You should clarify the expectations of an independent study course before courses start if possible, or by the add deadline if you need to meet with the students first. You must provide the outcomes you will be grading to students before the drop deadline at the latest. ",
     "url": "/ug_curriculum.html#3-timing-and-deadlines",
     
     "relUrl": "/ug_curriculum.html#3-timing-and-deadlines"
-  },"66": {
-    "doc": "Undergraduate Curriculum",
-    "title": "Undergraduate Curriculum",
+  },"67": {
+    "doc": "Curriculum Policies",
+    "title": "Curriculum Policies",
     "content": " ",
     "url": "/ug_curriculum.html",
     
     "relUrl": "/ug_curriculum.html"
+  },"68": {
+    "doc": "Course Specifications",
+    "title": "Undergraduate Course Specifications",
+    "content": ". | Foundation Courses | Elective Courses | Service Courses | . ",
+    "url": "/ug_specifications.html#undergraduate-course-specifications",
+    
+    "relUrl": "/ug_specifications.html#undergraduate-course-specifications"
+  },"69": {
+    "doc": "Course Specifications",
+    "title": "Foundation Courses",
+    "content": " ",
+    "url": "/ug_specifications.html#foundation-courses",
+    
+    "relUrl": "/ug_specifications.html#foundation-courses"
+  },"70": {
+    "doc": "Course Specifications",
+    "title": "CS 1110: Introduction to Programming",
+    "content": "Foundation . (3 credits / Prerequisites: None) A first course in programming, software development, and computer science. Introduces computing fundamentals and an appreciation for computational thinking. No previous programming experience required. Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses. Full Course Specification . ",
+    "url": "/ug_specifications.html#cs-1110-introduction-to-programming",
+    
+    "relUrl": "/ug_specifications.html#cs-1110-introduction-to-programming"
+  },"71": {
+    "doc": "Course Specifications",
+    "title": "CS 1111: Introduction to Programming",
+    "content": "Foundation . (3 credits / Prerequisites: None) A first course in programming, software development, and computer science. Introduces computing fundamentals and an appreciation for computational thinking. Prerequisite: Students should have some experience with programming. Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses. Full Course Specification . ",
+    "url": "/ug_specifications.html#cs-1111-introduction-to-programming",
+    
+    "relUrl": "/ug_specifications.html#cs-1111-introduction-to-programming"
+  },"72": {
+    "doc": "Course Specifications",
+    "title": "CS 1112: Introduction to Programming",
+    "content": "Foundation . (3 credits / Prerequisites: None) A first course in programming, software development, and computer science. Introduces computing fundamentals and an appreciation for computational thinking. Prerequisite: Students must have no previous programming experience. Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses. Full Course Specification . ",
+    "url": "/ug_specifications.html#cs-1112-introduction-to-programming",
+    
+    "relUrl": "/ug_specifications.html#cs-1112-introduction-to-programming"
+  },"73": {
+    "doc": "Course Specifications",
+    "title": "CS 1113: Introduction to Programming",
+    "content": "Foundation . (3 credits / Prerequisites: None) A first course in programming, software development, and computer science. Introduces computing fundamentals and an appreciation for computational thinking. Special domain topics and materials will differ by section and semester. Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses. Full Course Specification . ",
+    "url": "/ug_specifications.html#cs-1113-introduction-to-programming",
+    
+    "relUrl": "/ug_specifications.html#cs-1113-introduction-to-programming"
+  },"74": {
+    "doc": "Course Specifications",
+    "title": "CS 1120: Introduction to Computing: Explorations in Language, Logic, and Machines",
+    "content": "Foundation . (3 credits / Prerequisites: None) This course is an introduction to the most important ideas in computing. It focuses on the big ideas in computer science including the major themes of recursive definitions, universality, and abstraction. It covers how to describe information processes by defining procedures using the Scheme and Python programming languages, how to analyze the costs required to carry out a procedure, and the fundamental limits of what can be computed. ",
+    "url": "/ug_specifications.html#cs-1120-introduction-to-computing-explorations-in-language-logic-and-machines",
+    
+    "relUrl": "/ug_specifications.html#cs-1120-introduction-to-computing-explorations-in-language-logic-and-machines"
+  },"75": {
+    "doc": "Course Specifications",
+    "title": "CS 2100: Data Structures and Algorithms 1",
+    "content": "Foundation . (4 credits / Prerequisites: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test.) A second course in computing with an emphasis on foundational data structures and program analysis. The course provides a introduction to object oriented programming and the Java programming language, concurrency, and inheritance / polymorphism. Additionally, foundational data structures and related algorithms / analysis are studied. These include lists, stacks, queues, trees, hash tables, and priority queues. ",
+    "url": "/ug_specifications.html#cs-2100-data-structures-and-algorithms-1",
+    
+    "relUrl": "/ug_specifications.html#cs-2100-data-structures-and-algorithms-1"
+  },"76": {
+    "doc": "Course Specifications",
+    "title": "CS 2120: Discrete Mathematics and Theory 1",
+    "content": "Foundation . (3 credits / Prerequisites: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test.) Introduces discrete mathematics and proof techniques involving first order predicate logic and induction. Application areas include sets, tuples, functions, relations, and combinatorial problems. ",
+    "url": "/ug_specifications.html#cs-2120-discrete-mathematics-and-theory-1",
+    
+    "relUrl": "/ug_specifications.html#cs-2120-discrete-mathematics-and-theory-1"
+  },"77": {
+    "doc": "Course Specifications",
+    "title": "CS 2130: Computer Systems and Organization 1",
+    "content": "Foundation . (4 credits / Prerequisites: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test AND either familiarity with Java, C++, or another C-like language, or concurrent enrollment in CS 2100) This course covers topics on the computer architecture abstraction hierarchy ranging from a step above silicon to a step below modern programming languages. Students in this course will learn to write low-level code in C and Assembly, how data is stored in memory, the basics of hardware design from gates and registers through general-purpose computers, and legal, ethical, and security issues related to these topics. Full Course Specification . ",
+    "url": "/ug_specifications.html#cs-2130-computer-systems-and-organization-1",
+    
+    "relUrl": "/ug_specifications.html#cs-2130-computer-systems-and-organization-1"
+  },"78": {
+    "doc": "Course Specifications",
+    "title": "CS 3100: Data Structures and Algorithms 2",
+    "content": "Foundation . (3 credits / Prerequisites: CS 2150 or (CS 2100 &amp; CS 2120); APMA 1090 or MATH 1210 or MATH 1310 or equivalent) Builds upon previous analysis of algorithms and the effects of data structures on them. Algorithms selected from areas such as searching, shortest paths, greedy algorithms, backtracking, divide-and-conquer, dynamic programming, and machine learning. Analysis techniques include asymptotic worst case, expected time, amortized analysis, and reductions. ",
+    "url": "/ug_specifications.html#cs-3100-data-structures-and-algorithms-2",
+    
+    "relUrl": "/ug_specifications.html#cs-3100-data-structures-and-algorithms-2"
+  },"79": {
+    "doc": "Course Specifications",
+    "title": "CS 3120: Discrete Mathematics and Theory 2",
+    "content": "Foundation . (3 credits / Prerequisites: CS 4102 or CS 3100 with a grade of C- or better) The goal of this course is to understand the fundamental limits on what can be efficiently computed. These limits reveal properties about information, communication, and computing, as well as practical issues about how to solve problems. Introduces computation theory including grammars, automata, and Turing machines. ",
+    "url": "/ug_specifications.html#cs-3120-discrete-mathematics-and-theory-2",
+    
+    "relUrl": "/ug_specifications.html#cs-3120-discrete-mathematics-and-theory-2"
+  },"80": {
+    "doc": "Course Specifications",
+    "title": "CS 3130: Computer Systems and Organization 2",
+    "content": "Foundation . (4 credits / Prerequisites: CS 2100 and CS 2130 with a grade of C- or better) A second course in computer systems, this course will explore a more realistic model of processors and how they and the operating system work together to provide various functionality we depend on as application programmers. Course topics include permission models, system architecture, concurrency, virtual memory, cryptographic primitives, and TCP/IP networking. ",
+    "url": "/ug_specifications.html#cs-3130-computer-systems-and-organization-2",
+    
+    "relUrl": "/ug_specifications.html#cs-3130-computer-systems-and-organization-2"
+  },"81": {
+    "doc": "Course Specifications",
+    "title": "CS 3140: Software Development Essentials",
+    "content": "Foundation . (3 credits / Prerequisites: CS 2100 with a C- or better.) A first course in software engineering and software construction, this course focuses on bringing the programming concepts learned in a first course in data structures and algorithms together to begin to teach students how to build more complex systems. The course covers introductory topics in testing, software design principles, design patterns, functional programming, and data storage and manipulation. Full Course Specification . ",
+    "url": "/ug_specifications.html#cs-3140-software-development-essentials",
+    
+    "relUrl": "/ug_specifications.html#cs-3140-software-development-essentials"
+  },"82": {
+    "doc": "Course Specifications",
+    "title": "CS 3240: Software Engineering",
+    "content": "Foundation . (3 credits / Prerequisites: CS 2150 or CS 3140 with a grade of C- or better) Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation. Formerly known as Advanced Software Development Techniques. ",
+    "url": "/ug_specifications.html#cs-3240-software-engineering",
+    
+    "relUrl": "/ug_specifications.html#cs-3240-software-engineering"
+  },"83": {
+    "doc": "Course Specifications",
+    "title": "Elective Courses",
+    "content": " ",
+    "url": "/ug_specifications.html#elective-courses",
+    
+    "relUrl": "/ug_specifications.html#elective-courses"
+  },"84": {
+    "doc": "Course Specifications",
+    "title": "CS 3205: HCI in Software Development",
+    "content": "Elective . (3 credits / Prerequisites: CS 2110 or CS 2100 with a grade of C- or better) Human-computer interaction and user-centered design in the context of software engineering. Examines the fundamental principles of human-computer interaction. Includes evaluating a system’s usability based on well-defined criteria; user and task analysis, as well as conceptual models and metaphors; the use of prototyping for evaluating design alternatives; and physical design of software user-interfaces, including windows, menus, and commands. ",
+    "url": "/ug_specifications.html#cs-3205-hci-in-software-development",
+    
+    "relUrl": "/ug_specifications.html#cs-3205-hci-in-software-development"
+  },"85": {
+    "doc": "Course Specifications",
+    "title": "CS 3250: Software Testing",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or (CS 2100 and CS 2120) with a grade of C- or better) An introduction to testing for assuring software quality. Covers concepts and techniques for testing software, including testing at the unit, module, subsystem, and system levels; automatic and manual techniques for generating and validating test data; the testing process; static vs. dynamic analysis; functional testing; inspections; testing in specific application domains; and reliability assessment. ",
+    "url": "/ug_specifications.html#cs-3250-software-testing",
+    
+    "relUrl": "/ug_specifications.html#cs-3250-software-testing"
+  },"86": {
+    "doc": "Course Specifications",
+    "title": "CS 3501: Special Topics in Computer Science",
+    "content": "Elective . (1 - 3 credits / Prerequisites: Instructor permission; additional specific requirements vary with topics.) Content varies, depending on instructor interests and the needs of the Department. Taught strictly at the undergraduate level. ",
+    "url": "/ug_specifications.html#cs-3501-special-topics-in-computer-science",
+    
+    "relUrl": "/ug_specifications.html#cs-3501-special-topics-in-computer-science"
+  },"87": {
+    "doc": "Course Specifications",
+    "title": "CS 3710: Introduction to Cybersecurity",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or (CS 2100 or CS 2100 place-out test and CS 2130) with a grade of C- or better) Introduces students to the fields of cybersecurity. Both non-technical issues, such as ethics and policy, and technical issues are covered. Students see and experiment with a wide range of areas within cybersecurity, including: binary exploitation, encryption, digital forensics, networks, and modern threats. ",
+    "url": "/ug_specifications.html#cs-3710-introduction-to-cybersecurity",
+    
+    "relUrl": "/ug_specifications.html#cs-3710-introduction-to-cybersecurity"
+  },"88": {
+    "doc": "Course Specifications",
+    "title": "CS 4240: Principles of Software Design",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or CS 3140 with a grade of C- or better) Focuses on techniques for software design in the development of large and complex software systems. Topics will include software architecture, modeling (including UML), object-oriented design patterns, and processes for carrying out analysis and design. More advanced or recent developments may be included at the instructor’s discretion. The course will balance an emphasis on design principles with an understanding of how to apply techniques and methods to create successful software systems. ",
+    "url": "/ug_specifications.html#cs-4240-principles-of-software-design",
+    
+    "relUrl": "/ug_specifications.html#cs-4240-principles-of-software-design"
+  },"89": {
+    "doc": "Course Specifications",
+    "title": "CS 4260: Internet Scale Applications",
+    "content": "Elective . (3 credits / Prerequisites: CS 3240 with a grade of C- or better) A survey of methods for building large-scale internet websites and mobile apps, with a focus on how theory meets practice. Topics covered include performance engineering, scaling, security, and large team software engineering. Results in students building a working scalable online application. ",
+    "url": "/ug_specifications.html#cs-4260-internet-scale-applications",
+    
+    "relUrl": "/ug_specifications.html#cs-4260-internet-scale-applications"
+  },"90": {
+    "doc": "Course Specifications",
+    "title": "CS 4434: Dependable Computing Systems",
+    "content": "Elective . (3 credits / Prerequisites: CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3130 and CS 3140; APMA 3100, APMA 3110, MATH 3100, or equivalent. Must complete CS courses with a grade of C- or better.) Focuses on techniques for designing &amp; analyzing dependable computer-based systems. Topics include basic dependability concepts &amp; attributes, fault models &amp; effects, combinatorial &amp; state-space modeling, hardware redundancy, error detecting &amp; correcting codes, time redundancy, software fault tolerance, checkpointing &amp; recovery, reliable networked systems, error detection techniques, &amp; experimental dependability evaluation techniques. ",
+    "url": "/ug_specifications.html#cs-4434-dependable-computing-systems",
+    
+    "relUrl": "/ug_specifications.html#cs-4434-dependable-computing-systems"
+  },"91": {
+    "doc": "Course Specifications",
+    "title": "CS 4444: Introduction to Parallel Computing",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 and CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3100 and CS 3130. Must complete CS courses with a grade of C- or better.) Introduces the student to the basics of high-performance parallel computing and the national cyber-infrastructure. The course is targeted for both computer science students and students from other disciplines who want to learn how to significantly increase the performance of applications. ",
+    "url": "/ug_specifications.html#cs-4444-introduction-to-parallel-computing",
+    
+    "relUrl": "/ug_specifications.html#cs-4444-introduction-to-parallel-computing"
+  },"92": {
+    "doc": "Course Specifications",
+    "title": "CS 4457: Computer Networks",
+    "content": "Elective . (3 credits / Prerequisites: CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3130. Must complete CS courses with a grade of C- or better.) A first course in communication networks for upper-level undergraduate students. Topics include the design of modern communication networks; point-to-point and broadcast network solutions; advanced issues such as Gigabit networks; ATM networks; and real-time communications. Cross-listed as ECE 4457. ",
+    "url": "/ug_specifications.html#cs-4457-computer-networks",
+    
+    "relUrl": "/ug_specifications.html#cs-4457-computer-networks"
+  },"93": {
+    "doc": "Course Specifications",
+    "title": "CS 4458: Internet Engineering",
+    "content": "Elective . (3 credits / Prerequisites: CS 4457 with a grade of C- or better.) An advanced course on computer networks on the technologies and protocols of the Internet. Topics include the design principles of the Internet protocols, including TCP/IP, the Domain Name System, routing protocols, and network management protocols. A set of laboratory exercises covers aspects of traffic engineering in a wide-area network. ",
+    "url": "/ug_specifications.html#cs-4458-internet-engineering",
+    
+    "relUrl": "/ug_specifications.html#cs-4458-internet-engineering"
+  },"94": {
+    "doc": "Course Specifications",
+    "title": "CS 4501: Special Topics in Computer Science",
+    "content": "Elective . (1 - 3 credits / Prerequisites: Instructor permission; additional specific requirements vary with topics.) Content varies annually, depending on instructor interests and the needs of the department. Similar to CS 5501 and CS 7501, but taught strictly at the undergraduate level. ",
+    "url": "/ug_specifications.html#cs-4501-special-topics-in-computer-science",
+    
+    "relUrl": "/ug_specifications.html#cs-4501-special-topics-in-computer-science"
+  },"95": {
+    "doc": "Course Specifications",
+    "title": "CS 4610: Programming Languages",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or (CS 2120 and 3140) with a grade of C- or better) Presents the fundamental concepts of programming language design and implementation. Emphasizes language paradigms and implementation issues. Develops working programs in languages representing different language paradigms. Many programs oriented toward language implementation issues. ",
+    "url": "/ug_specifications.html#cs-4610-programming-languages",
+    
+    "relUrl": "/ug_specifications.html#cs-4610-programming-languages"
+  },"96": {
+    "doc": "Course Specifications",
+    "title": "CS 4620: Compilers",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or (CS 2120 and 3140) with a grade of C- or better) Provides an introduction to the field of compilers, which translate programs written in high-level languages to a form that can be executed. The course covers the theories and mechanisms of compilation tools. Students will learn the core ideas behind compilation and how to use software tools such as lex/flex, yacc/bison to build a compiler for a non-trivial programming language. ",
+    "url": "/ug_specifications.html#cs-4620-compilers",
+    
+    "relUrl": "/ug_specifications.html#cs-4620-compilers"
+  },"97": {
+    "doc": "Course Specifications",
+    "title": "CS 4630: Defense Against the Dark Arts",
+    "content": "Elective . (3 credits / Prerequisites: CS 3710 with a grade of C- or better) Viruses, worms, and other malicious software are an ever-increasing threat to computer systems. There is an escalating battle between computer security specialists and the designers of malicious software. This course provides an essential understanding of the techniques used by both sides of the computer security battle. ",
+    "url": "/ug_specifications.html#cs-4630-defense-against-the-dark-arts",
+    
+    "relUrl": "/ug_specifications.html#cs-4630-defense-against-the-dark-arts"
+  },"98": {
+    "doc": "Course Specifications",
+    "title": "CS 4640: Programming Languages for Web Applications",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or CS 3140 with a grade of C- or better) Presents programming languages and implementations used in developing web applications. Both client and server side languages are presented as well as database languages. In addition, frameworks that enable interactive web pages are discussed as well as formatting languages. Language features and efficiencies including scoping, parameter passing, object orientation, just in time compilation and dynamic binary translation are included. ",
+    "url": "/ug_specifications.html#cs-4640-programming-languages-for-web-applications",
+    
+    "relUrl": "/ug_specifications.html#cs-4640-programming-languages-for-web-applications"
+  },"99": {
+    "doc": "Course Specifications",
+    "title": "CS 4710: Artificial Intelligence",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or CS 3100 with a grade of C- or better) Introduces artificial intelligence. Covers fundamental concepts and techniques and surveys selected application areas. Core material includes state space search, logic, and resolution theorem proving. Application areas may include expert systems, natural language understanding, planning, machine learning, or machine perception. Provides exposure to AI implementation methods, emphasizing programming in Common LISP. ",
+    "url": "/ug_specifications.html#cs-4710-artificial-intelligence",
+    
+    "relUrl": "/ug_specifications.html#cs-4710-artificial-intelligence"
+  },"100": {
+    "doc": "Course Specifications",
+    "title": "CS 4720: Mobile Application Development",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or CS 3140 with a grade of C- or better) Mobile computing devices have become ubiquitous in our communities. In this course, we focus on the creation of mobile solutions for various modern platforms, including major mobile operating systems. Topics include mobile device architecture, programming languages, software engineering, user interface design, and app distribution. ",
+    "url": "/ug_specifications.html#cs-4720-mobile-application-development",
+    
+    "relUrl": "/ug_specifications.html#cs-4720-mobile-application-development"
+  },"101": {
+    "doc": "Course Specifications",
+    "title": "CS 4730: Computer Game Design",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or CS 3140 with a grade of C- or better) This course will introduce students to the concepts and tools used in the development of modern 2-D and 3-D real-time interactive computer video games. Topics covered in this include graphics, parallel processing, human-computer interaction, networking, artificial intelligence, and software engineering. ",
+    "url": "/ug_specifications.html#cs-4730-computer-game-design",
+    
+    "relUrl": "/ug_specifications.html#cs-4730-computer-game-design"
+  },"102": {
+    "doc": "Course Specifications",
+    "title": "CS 4740: Cloud Computing",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or CS 3140 with a grade of C- or better) Investigates the architectural foundations of the various cloud platforms, as well as examining both current cloud computing platforms and modern cloud research. Student assignments utilize the major cloud platforms. ",
+    "url": "/ug_specifications.html#cs-4740-cloud-computing",
+    
+    "relUrl": "/ug_specifications.html#cs-4740-cloud-computing"
+  },"103": {
+    "doc": "Course Specifications",
+    "title": "CS 4750: Database Systems",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or (CS 2120 and 3140) with a grade of C- or better) Introduces the fundamental concepts for design and development of database systems. Emphasizes relational data model and conceptual schema design using ER model, practical issues in commercial database systems, database design using functional dependencies, and other data models. Develops a working relational database for a realistic application. ",
+    "url": "/ug_specifications.html#cs-4750-database-systems",
+    
+    "relUrl": "/ug_specifications.html#cs-4750-database-systems"
+  },"104": {
+    "doc": "Course Specifications",
+    "title": "CS 4753: Electronic Commerce Technologies",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or CS 3140 with a grade of C- or better) History of Internet and electronic commerce on the web; case studies of success and failure; cryptographic techniques for privacy, security, and authentication; digital money; transaction processing; wired and wireless access technologies; Java; streaming multimedia; XML; Bluetooth. Defining, protecting, growing, and raising capital for an e-business. ",
+    "url": "/ug_specifications.html#cs-4753-electronic-commerce-technologies",
+    
+    "relUrl": "/ug_specifications.html#cs-4753-electronic-commerce-technologies"
+  },"105": {
+    "doc": "Course Specifications",
+    "title": "CS 4760: Network Security",
+    "content": "Elective . (3 credits / Prerequisites: CS 3710 with a grade of C- or better) This course covers the principles of secure network communications and the application of network security. Topics include: attack types, attack surfaces, attack phases, network security devices.(a)symmetric key encryption, cryptographic hash function, authentication/identification techniques, key distribution, and data integrity assurance. Also, currently used security mechanisms and protocols will be discussed. ",
+    "url": "/ug_specifications.html#cs-4760-network-security",
+    
+    "relUrl": "/ug_specifications.html#cs-4760-network-security"
+  },"106": {
+    "doc": "Course Specifications",
+    "title": "CS 4774: Machine Learning",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or CS 3100 with a grade of C- or better; APMA 3100, APMA 3110, MATH 3100, or equivalent and Math 3350 or APMA 3080 or equivalent) An introduction to machine learning: the study of algorithms that improve their performance through experience. Covers both machine learning theory and algorithms. Introduces algorithms, theory, and applications related to both supervised and unsupervised learning, including regression, classification, and optimization and major algorithm families for each. ",
+    "url": "/ug_specifications.html#cs-4774-machine-learning",
+    
+    "relUrl": "/ug_specifications.html#cs-4774-machine-learning"
+  },"107": {
+    "doc": "Course Specifications",
+    "title": "CS 4780: Information Retrieval",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or CS 3100 with a grade of C- or better; APMA 3100, APMA 3110, MATH 3100, or equivalent) An introduction to modern information retrieval technologies. Topics include indexing, query processing, document ranking, query recommendation, personalization, and other current topics in information retrieval. Students develop a custom search engine as part of this course. ",
+    "url": "/ug_specifications.html#cs-4780-information-retrieval",
+    
+    "relUrl": "/ug_specifications.html#cs-4780-information-retrieval"
+  },"108": {
+    "doc": "Course Specifications",
+    "title": "CS 4810: Introduction to Computer Graphics",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or (CS 3100 and 3130) with a grade of C- or better) Introduces the fundamentals of three-dimensional computer graphics: rendering, modeling, and animation. Students learn how to represent three-dimensional objects (modeling) and the movement of those objects over time (animation). Students learn and implement the standard rendering pipeline, defined as the stages of turning a three-dimensional model into a shaded, lit, texture-mapped two-dimensional image. ",
+    "url": "/ug_specifications.html#cs-4810-introduction-to-computer-graphics",
+    
+    "relUrl": "/ug_specifications.html#cs-4810-introduction-to-computer-graphics"
+  },"109": {
+    "doc": "Course Specifications",
+    "title": "CS 4970: Capstone Practicum I",
+    "content": "Elective . (3 credits / Prerequisites: CS 2150 or CS 2501 topic DSA2 with a grade of C- or higher, and BSCS major) This course is one option in the CS fourth-year thesis track. Under the practicum track, students will take two 3-credit courses, CS 4970 and CS 4971. These courses would form a year-long group-based and project-based practicum class. There would be an actual customer, which could be either internal (the course instructor, other CS professors, etc.) or external (local companies, local non-profits, etc.). ",
+    "url": "/ug_specifications.html#cs-4970-capstone-practicum-i",
+    
+    "relUrl": "/ug_specifications.html#cs-4970-capstone-practicum-i"
+  },"110": {
+    "doc": "Course Specifications",
+    "title": "CS 4993: Independent Study",
+    "content": "Elective . (1 - 3 credits / Prerequisites: Instructor permission.) In-depth study of a computer science or computer engineering problem by an individual student in close consultation with departmental faculty. The study is often either a thorough analysis of an abstract computer science problem or the design, implementation, and analysis of a computer system (software or hardware). ",
+    "url": "/ug_specifications.html#cs-4993-independent-study",
+    
+    "relUrl": "/ug_specifications.html#cs-4993-independent-study"
+  },"111": {
+    "doc": "Course Specifications",
+    "title": "Service Courses",
+    "content": " ",
+    "url": "/ug_specifications.html#service-courses",
+    
+    "relUrl": "/ug_specifications.html#service-courses"
+  },"112": {
+    "doc": "Course Specifications",
+    "title": "CS 1010: Introduction to Information Technology",
+    "content": "Service . (3 credits / Prerequisites: None) How computers create, preserve, manipulate and communicate information and the concepts and tools used to that end. Units include how computers work, web technologies, creating web pages, algorithms and logic, basic programming, and solving problems with spreadsheets. Students will learn to recognize computational problems and develop basic skill sets to solve future problems in their discipline of study. No prior programming experience required. Cannot be taken for credit by students in SEAS. ",
+    "url": "/ug_specifications.html#cs-1010-introduction-to-information-technology",
+    
+    "relUrl": "/ug_specifications.html#cs-1010-introduction-to-information-technology"
+  },"113": {
+    "doc": "Course Specifications",
+    "title": "Course Specifications",
+    "content": " ",
+    "url": "/ug_specifications.html",
+    
+    "relUrl": "/ug_specifications.html"
   }
 }
