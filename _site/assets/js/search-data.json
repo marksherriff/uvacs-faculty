@@ -330,17 +330,17 @@
   },"47": {
     "doc": "Contact",
     "title": "Contact Information",
-    "content": ". | CS Student Mailing Lists | CS Department Contacts | SEAS Student Support Team | SDAC and Other Special Circumstances | Religious Accommodations | Community and Identity | Statement on Violence | . ",
+    "content": ". | CS Mailings Lists | CS Department Contacts | SEAS Student Support Team | SDAC and Other Special Circumstances | . ",
     "url": "/contact.html#contact-information",
     
     "relUrl": "/contact.html#contact-information"
   },"48": {
     "doc": "Contact",
-    "title": "CS Student Mailing Lists",
-    "content": "All Undergrad CS Students Department List (cs-ugrads@virginia.edu): A list called cs-ugrads@virginia.edu is used to send important messages to all our undergraduate computing majors (BSCS, BACS, and BSCpE majors). At least once a year, we update these lists and add all our majors. ",
-    "url": "/contact.html#cs-student-mailing-lists",
+    "title": "CS Mailings Lists",
+    "content": "NOTE: All addresses below are @virginia.edu. | cs-activefaculty: All current CS faculty, including joint and secondary appointments | . ",
+    "url": "/contact.html#cs-mailings-lists",
     
-    "relUrl": "/contact.html#cs-student-mailing-lists"
+    "relUrl": "/contact.html#cs-mailings-lists"
   },"49": {
     "doc": "Contact",
     "title": "CS Department Contacts",
@@ -351,7 +351,7 @@
   },"50": {
     "doc": "Contact",
     "title": "SEAS Student Support Team",
-    "content": "You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! . NOTE: While the contacts in this section are in the SEAS Dean’s office, College students can approach them. You should make it clear you’re a CS student in the College, and if they are not able help you they certainly should be able to point you to someone in the College or elsewhere who can. ",
+    "content": " ",
     "url": "/contact.html#seas-student-support-team",
     
     "relUrl": "/contact.html#seas-student-support-team"
@@ -365,7 +365,7 @@
   },"52": {
     "doc": "Contact",
     "title": "Health and Wellbeing",
-    "content": ". | Assistant Dean of Students, Student Safety and Support | Elizabeth Ramirez-Weaver, CAPS counselor | Katie Fowler, CAPS counselor | . You may schedule time with the CAPS counselors through Student Health. When scheduling, be sure to specify that you are an Engineering student or College student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care. ",
+    "content": ". | Assistant Dean of Students, Student Safety and Support | . ",
     "url": "/contact.html#health-and-wellbeing",
     
     "relUrl": "/contact.html#health-and-wellbeing"
@@ -378,52 +378,94 @@
     "relUrl": "/contact.html#sdac-and-other-special-circumstances"
   },"54": {
     "doc": "Contact",
-    "title": "Religious Accommodations",
-    "content": "It is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request to their instructor by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at UVAEOCR@virginia.edu or 434-924-3200. Accommodations do not relieve you of the responsibility for completion of any part of the coursework missed as the result of a religious observance. ",
-    "url": "/contact.html#religious-accommodations",
-    
-    "relUrl": "/contact.html#religious-accommodations"
-  },"55": {
-    "doc": "Contact",
-    "title": "Community and Identity",
-    "content": "The Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers. ",
-    "url": "/contact.html#community-and-identity",
-    
-    "relUrl": "/contact.html#community-and-identity"
-  },"56": {
-    "doc": "Contact",
-    "title": "Statement on Violence",
-    "content": "The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available. The same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, veteran status. UVA policy also prohibits retaliation for reporting such behavior. If you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR, the office of Equal Opportunity and Civil Rights. If you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling &amp; Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders). ",
-    "url": "/contact.html#statement-on-violence",
-    
-    "relUrl": "/contact.html#statement-on-violence"
-  },"57": {
-    "doc": "Contact",
     "title": "Contact",
     "content": " ",
     "url": "/contact.html",
     
     "relUrl": "/contact.html"
-  },"58": {
+  },"55": {
     "doc": "Home",
     "title": "UVA CS Department Policies and Procedures",
     "content": "Site Last Updated: Tuesday, May 14, 2024 . This website is maintained by the faculty and staff of the Department of Computer Science and is intended to be a resource for faculty and staff regarding the policy, procedures, and operations of the department. We work to keep this website as up-to-date as possible, but if there are any conflicts between this website and official resources provided by the University of Virginia (e.g., information from the Registrar’s Office, the official Academic Record, the Dean’s office, UVA HR, etc.), the official resources should be considered the authoritative source. Please report any discrepancies or suggestions for other content to sherriff@virginia.edu. ",
     "url": "/#uva-cs-department-policies-and-procedures",
     
     "relUrl": "/#uva-cs-department-policies-and-procedures"
-  },"59": {
-    "doc": "Home",
-    "title": "Where do I go for help?",
-    "content": " ",
-    "url": "/#where-do-i-go-for-help",
-    
-    "relUrl": "/#where-do-i-go-for-help"
-  },"60": {
+  },"56": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
+  },"57": {
+    "doc": "Undergraduate Curriculum",
+    "title": "Undergraduate Curriculum Policies",
+    "content": ". | 1. Modifying existing courses . | 1.1. Content/coverage | 1.2. Amount and timing of work | 1.3. Sections and delivery | . | 2. Designing new courses . | 2.1. Special Topics courses | 2.2. Independent study | . | 3. Timing and deadlines | . ",
+    "url": "/ug_curriculum.html#undergraduate-curriculum-policies",
+    
+    "relUrl": "/ug_curriculum.html#undergraduate-curriculum-policies"
+  },"58": {
+    "doc": "Undergraduate Curriculum",
+    "title": "1. Modifying existing courses",
+    "content": " ",
+    "url": "/ug_curriculum.html#1-modifying-existing-courses",
+    
+    "relUrl": "/ug_curriculum.html#1-modifying-existing-courses"
+  },"59": {
+    "doc": "Undergraduate Curriculum",
+    "title": "1.1. Content/coverage",
+    "content": "Course content may be constrained by: . | The official course description in the record | Topics required by courses that use this as a prerequisite | Topics required by accreditation | Topics required by one or more degree programs | Measures that must be assessed every semester for accreditation | Deduplication constraints between similar courses | Student development goals identified for foundation courses | . Not all courses have all of these constraints. Those they have are found in its Course Spec, maintained by the CS Undergraduate Curriculum Committee (UCC) at (insert link), or in the record if the course has no Course Spec. Changes to these constraints generally require approval by multiple bodies and are coordinated by the UCC. If the course has multiple instructors with a shared section of some kind (laboratory, final exam time, etc), either all instructors must agree to details of content and coverage, or a request to un-share those sections must be given to the department course scheduler at least a week prior to enrollment opening. Beyond these constraints, faculty can redesign their course content and coverage without formal approval. However, please be aware of possible overlap; if your change would cause your course to cover topics that might reasonably be considered in-scope for another course, please coordinate with faculty who have taught that other course over the past 3 years to ensure that students who take both courses will still receive two full courses of material. ",
+    "url": "/ug_curriculum.html#11-contentcoverage",
+    
+    "relUrl": "/ug_curriculum.html#11-contentcoverage"
+  },"60": {
+    "doc": "Undergraduate Curriculum",
+    "title": "1.2. Amount and timing of work",
+    "content": "All CS courses should be 3 credits, with the following exceptions: . | Some foundation courses may be 4 credits | Independent study courses are variable credits (1–3); this flexibility allows smaller exploratory projects or spreading a 3-credit project over two semesters. | Seminars and student-taught courses may be 1 credit | . A credit is defined by both the university (PROV-022) and federal government (34 CFR § 600.2) as at least 135 hours of student time, including all individual, group, and in-class learning, study, assessment, and other work. For CS, we recommend 135 hours as a target, not just a lower bound. While actual time will vary by student, if a course proves to be reliably above or below this target then content and associated student tasks should be adjusted to more accurately reflect this definition. Instructors should recognize that students are taking multiple courses and may need to balance when they do their course work accordingly. While some students may choose to do the bulk of their work near an assignment deadline, there should be no arbitrary structural reason (such as delayed release of assignment details or delayed coverage of relevant topical material) why they must do so. ",
+    "url": "/ug_curriculum.html#12-amount-and-timing-of-work",
+    
+    "relUrl": "/ug_curriculum.html#12-amount-and-timing-of-work"
+  },"61": {
+    "doc": "Undergraduate Curriculum",
+    "title": "1.3. Sections and delivery",
+    "content": "As a general rule, each credit hour should correspond to one contact hour per week, where a contact hour is defined as either 50 minutes of lecture or 75 minutes of laboratory. Fewer contact hours may be appropriate for independent study courses. The way that UVA schedules courses means that changes to lecture/lab balance have ramifications far beyond a single course, both in that semester and in semesters that follow. Because of this, requests to change the lecture/lab allocation of a course must be submitted to the UCC before the schedule is submitted; requests should include justification for the change and input from other instructors of the same course number (if applicable). In addition to Lectures and Laboratories, UVA has course codes for Studios, Discussions, Practica, and Seminars. CS has traditionally not used these, but requests to do so may be submitted to the UCC. ",
+    "url": "/ug_curriculum.html#13-sections-and-delivery",
+    
+    "relUrl": "/ug_curriculum.html#13-sections-and-delivery"
+  },"62": {
+    "doc": "Undergraduate Curriculum",
+    "title": "2. Designing new courses",
+    "content": "The UCC is responsible for evaluating the content of courses and meeting university-level policies on special topics courses. The chair is responsible for balancing and funding faculty workloads. The scheduler is responsible for ensuring that each semester an appropriate number of courses of each type are offered. All three need to agree before a course is scheduled, and approval by one does not guarantee approval by the others. The following describes only information related to the UCC’s responsibilities. ",
+    "url": "/ug_curriculum.html#2-designing-new-courses",
+    
+    "relUrl": "/ug_curriculum.html#2-designing-new-courses"
+  },"63": {
+    "doc": "Undergraduate Curriculum",
+    "title": "2.1. Special Topics courses",
+    "content": "These courses are pilots of potential new permanent course offerings. Substantially similar offerings of a special topics course may be offered up to three times; a fourth offering should occur under a new permanent course number. Each offering as a 3501 or 4501 must be submitted for approval before being scheduled, and each should move the course closer to a permanent listing. Courses may be given a permanent number after a few number of offerings if the course content is stable and multiple faculty members agree it should be offered regularly. | CS 1511: A course that is not a CS required or elective course and has no computing prerequisites. | CS 2501: A course that is not part of a computing major and has only Intro to Programming (and possibly some non-CS courses) as a prerequisite; or a pilot of a new foundation course. | CS 3501: A CS elective requiring one or more 2000-level CS courses as a prerequisite, and which introduce topics such that we might reasonably imagine having a second undergrad course following it or which students might benefit from having before taking other electives. | CS 4501: A CS elective requiring several 2000- and/or 3000-level CS courses as prerequisites which provides a reasonably complete undergrad-level understanding of a topic. | . Each offering of one of these courses must be approved by the UCC, even if a substantially similar offering occurred in the past, and will not be scheduled without such approval. The request may be made in any format, but should include . | Proposed course title. | Proposed course description to put into SIS and the university record. | Course prerequisites. Consider both CS and non-CS courses. If only a smaller subset of a requisite course’s content is needed, clarify which content (e.g. “APMA 3100 or MATH 3100 for the notion of conditional probability”). | A list of similar existing courses at UVA and how this course differs from them. This should include statements by both the new and existing course - instructors about how much overlap the courses have; the new instructor’s reading of others’ past materials alone is generally insufficient. | . If this is a second or third offering, . | a detailed topics list | example assignments from previous offerings | if applicable, a summary of major changes planned for this offering | . If this is a third offering, . | a proposed permanent course number | a set of faculty who have reviewed the course materials and agreed they would be willing to teach a variant of the course in the future | Or, if the course is not ready for a permanent number and listing in the record, instead provide an explanation as to why not. | . Courses intended to be taken by majors (CS 3501 and CS 4501) must be both (a) substantially distinct from other offerings and (b) primarily computing content. Cross-departmental courses are appropriate only when the content is in the intersection of the two disciplines. Courses intended to be taken by non-majors (CS 1511 and CS 2501) have more flexibility; for example, they may . | extract certain practical topics from majors courses and present them without the supporting details needed to make them part of a CS degree | cover CS-adjacent topics | teach material in other courses through the lens of a specific non-computing discipline. | . Funding to support faculty time on non-majors courses is handled on a case-by-case basis and should be discussed with the department chair before submitting the course description to the UCC. There is also a special-topics course number, CS 1501, used only for 1-credit ungraded courses. In most cases, these are taught by students under the supervision of a faculty member. CS 1501 courses do not require UCC approval. ",
+    "url": "/ug_curriculum.html#21-special-topics-courses",
+    
+    "relUrl": "/ug_curriculum.html#21-special-topics-courses"
+  },"64": {
+    "doc": "Undergraduate Curriculum",
+    "title": "2.2. Independent study",
+    "content": "These courses are one-off offerings tailored to specific students. In general, they may consist of . | Instruction in topics not of general interest. | Supervised research, in which the primary goal is the student performing or assisting in a research project. | Supervised project work, in which the primary goal is the student creating or assisting in the creation of a significant artifact. | . They do not require approval as long as they both (a) have small enrollments and (b) are offered by a CS faculty member. They are not counted toward a faculty member’s overall teaching load. | CS 2993: Should have limited prereqs and deal in less advanced material than a typical computing elective. | CS 4980: Should be research or project work; instruction-oriented content is not appropriate for 4980. | CS 4993: Should be at least as advanced as a typical computing elective. | . Instructors of independent study courses should clearly specify their expectations in writing to students early in the term (a week before the drop deadline at a minimum) and should grade them based on those expectations. It is appropriate to mix and match independent study sections with other sections. For example, the following are appropriate: . | Having a group of undergraduates working on a project, some for 4993, some for 4980, and some as an uncredited side project | Having an undergrad in CS 4993 attend a graduate course as their primary learning activity | . ",
+    "url": "/ug_curriculum.html#22-independent-study",
+    
+    "relUrl": "/ug_curriculum.html#22-independent-study"
+  },"65": {
+    "doc": "Undergraduate Curriculum",
+    "title": "3. Timing and deadlines",
+    "content": "The following table summarizes when various events related to courses occur each year. | Activity | Fall | Spring | Summer | . | Chair approval of intent1 | December | April | October | . | First draft schedule | Dec 10 | Apr 1 | Oct 15 | . | Course proposal to UCC2 | penult Fri of Jan | penult Fri of Aug | penult Wed of Oct | . | Schedule due | 1st Fri of Feb | 1st Fri of Sep | 1st Wed of Nov | . | Schedule published3 | near March 15 | near Oct 15 | February | . | Courses start4 | near Aug 25 | near Jan 15 | varies | . | Add deadline4 | near Sep 5 | near Jan 30 | varies | . | Drop deadline4 | near Oct 15 | near Feb 25 | varies | . 1 The department chair handles issues of effort allocation, course offering balancing, and funding. Before investing energy in course (re)design, please verify that the chair supports the effort investment of a new/redesigned course. Note that chair approval does not guarantee UCC approval nor inclusion in any particular semester’s schedule. 2 The UCC needs to approve new and repeated 1511, 2501, 3501, and 4501 offerings. Submit your request by email to the UCC chair no later than 2 weeks before the schedule is due to allow time for discussion. Changes to lecture/lab allocations should be made at the same time. 3 You should have student-facing materials (a website, etc) for your new course available before the schedule is published to help students plan their course selection. 4 You should clarify the expectations of an independent study course before courses start if possible, or by the add deadline if you need to meet with the students first. You must provide the outcomes you will be grading to students before the drop deadline at the latest. ",
+    "url": "/ug_curriculum.html#3-timing-and-deadlines",
+    
+    "relUrl": "/ug_curriculum.html#3-timing-and-deadlines"
+  },"66": {
+    "doc": "Undergraduate Curriculum",
+    "title": "Undergraduate Curriculum",
+    "content": " ",
+    "url": "/ug_curriculum.html",
+    
+    "relUrl": "/ug_curriculum.html"
   }
 }
